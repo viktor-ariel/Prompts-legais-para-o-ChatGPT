@@ -1,12 +1,12 @@
-<p align="center"><h1>🧠 Awesome ChatGPT Prompts</h1></p>
+<p align="center"><h1>🧠 Prompts Incríveis para o ChatGPT</h1></p>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Steamship](https://raw.githubusercontent.com/steamship-core/python-client/main/badge.svg)](https://www.steamship.com/build?utm_source=github&utm_medium=badge&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)
 
-Welcome to the "Awesome ChatGPT Prompts" repository! This is a collection of prompt examples to be used with the ChatGPT model.
+Bem-vindo ao repositório "Prompts Incríveis para o ChatGPT"! Esta é uma coleção de exemplos de prompts para serem usados com o modelo ChatGPT.
 
-The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
+O modelo [ChatGPT](https://chat.openai.com/chat) é um grande modelo de linguagem treinado pela [OpenAI](https://openai.com) que é capaz de gerar texto semelhante ao humano. Ao fornecer um prompt, ele pode gerar respostas que continuam a conversa ou expandem o prompt fornecido.
 
-In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to [add your own prompts](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md) to the list, and to use ChatGPT to generate new prompts as well.
+Neste repositório, você encontrará uma variedade de prompts que podem ser usados com o ChatGPT. Encorajamos você a [ adicionar seus próprios prompts](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md) à lista e também utilizar o ChatGPT para gerar novos prompts. A diversidade de ideias contribuirá para uma experiência rica e interessante com o modelo. Vamos juntos tornar essa coleção ainda mais abrangente!
 
 To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
 
